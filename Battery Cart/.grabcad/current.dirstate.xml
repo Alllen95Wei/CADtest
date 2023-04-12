@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-02-18T14:34:25.9969293+08:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>new\first floor\1.SLDASM</FileName>
+      <SHA1>7D2E0F9809CE0D41131D1B1FA4ACB14EF68D2B15</SHA1>
+      <FileSize>1283533</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:38:04.9239239+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\Anderson SB50.SLDPRT</FileName>
+      <SHA1>46568E8B3BE20B9DA04693889A0C425D6B671EBA</SHA1>
+      <FileSize>221412</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.5809724+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\Anderson 面板.SLDPRT</FileName>
+      <SHA1>EF05D5ED37250E89DA312DDBF92AA04437B567E2</SHA1>
+      <FileSize>56957</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4180388+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\Anderson墊片.SLDPRT</FileName>
+      <SHA1>5B063F343D23229160341AFE8822312A423C3566</SHA1>
+      <FileSize>54535</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4190356+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\charge.SLDPRT</FileName>
+      <SHA1>BA76D8DD7D98B90CBB7C5D5A116A1D1B37D96C26</SHA1>
+      <FileSize>1120779</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.5843226+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\L鐵 切邊.SLDPRT</FileName>
+      <SHA1>A533CB66AB71A50427E51FE3EA722AE563D9AE78</SHA1>
+      <FileSize>99610</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4205414+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\L鐵 切邊2.SLDPRT</FileName>
+      <SHA1>B641A9C0C467108BFDA0AB621F41A3B4C3A1614B</SHA1>
+      <FileSize>96666</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4220524+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\L鐵.SLDPRT</FileName>
+      <SHA1>3EE3C5F8B68FC4EB6A6D77C63EB2198637C87459</SHA1>
+      <FileSize>87083</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4220524+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\握把.SLDPRT</FileName>
+      <SHA1>5D8DB699C392A095469A6C88748DB0B0FAA3837E</SHA1>
+      <FileSize>148955</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.5864286+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板300.8x195.25.SLDPRT</FileName>
+      <SHA1>8B75B9D465C072142827B839D353137D0EA25607</SHA1>
+      <FileSize>210732</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4250426+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板305.55x414.8.SLDPRT</FileName>
+      <SHA1>981CAE610C117652F7192147DCB55FEE89EA769C</SHA1>
+      <FileSize>176263</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4260555+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板500.8x300.8(切角) - 面板.SLDPRT</FileName>
+      <SHA1>7019BEAE23F29498068AAF770FEFF9B7B58236B1</SHA1>
+      <FileSize>155097</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.5911583+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板500.8x300.8(切角)-charge.SLDPRT</FileName>
+      <SHA1>3667F741A9CAAD9393EB56DCE427A29B89EA816D</SHA1>
+      <FileSize>228392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4281021+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板500.8x300.8(切角).SLDPRT</FileName>
+      <SHA1>DB213D1F38804D7F4C17B644F7EF6BE7617A25BA</SHA1>
+      <FileSize>156561</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.5940847+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板500.8x300.8(切角)挖孔.SLDPRT</FileName>
+      <SHA1>B3DB9084E295D79BCE0828082A856C9CBFA4E3BF</SHA1>
+      <FileSize>243081</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:38:04.9254326+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板500.8x300.8(切角)挖洞+孔.SLDPRT</FileName>
+      <SHA1>B3E7ACFF7DF8965C4BB1EA3E2A2BAFF4E8B8B050</SHA1>
+      <FileSize>281696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:38:04.9275303+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板500.8x300.8(厚).SLDPRT</FileName>
+      <SHA1>C093B21CEF8C4AA453982A94E9B8C223FA4C5103</SHA1>
+      <FileSize>215614</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4335317+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\木板500.8x414.8.SLDPRT</FileName>
+      <SHA1>9A152819FD50D9C5E702D50664155E6D243C4FF5</SHA1>
+      <FileSize>198419</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4357627+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\輪子.SLDPRT</FileName>
+      <SHA1>1A64EB11A35D5A665F9D61EE514FF73F258B4E37</SHA1>
+      <FileSize>374741</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6031155+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\鋁扁管250.SLDPRT</FileName>
+      <SHA1>A10967D1C26F18698AD0698E22D0539CBA6B906B</SHA1>
+      <FileSize>53995</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4367688+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\鋁擠450.sldprt</FileName>
+      <SHA1>8E31A7E3F0786A2AD0941823842F580CAF9418F3</SHA1>
+      <FileSize>92226</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6064288+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\鋁方管250.SLDPRT</FileName>
+      <SHA1>25D10D4C5D3EBF58983F156311854AA229AF6D9C</SHA1>
+      <FileSize>110449</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4387977+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\鋁方管400.8.SLDPRT</FileName>
+      <SHA1>E1C064397EBE92888F7A87702F3B9E4E0BEAAF90</SHA1>
+      <FileSize>128014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4407779+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\鋁方管450.SLDPRT</FileName>
+      <SHA1>58C28385BF44097F54297E5DE85B7AA4FD13B362</SHA1>
+      <FileSize>98393</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4427781+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\開關.SLDPRT</FileName>
+      <SHA1>D28FB32088D9954230AAC880FDECA26F61EDE248</SHA1>
+      <FileSize>325931</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6115574+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\電壓器.SLDPRT</FileName>
+      <SHA1>2634DEF006DD257E731046C53EA3096311E8E0A6</SHA1>
+      <FileSize>85819</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6126095+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\電池.SLDPRT</FileName>
+      <SHA1>F9A3BE03F35718188FA93B155B48ECEC0BCF28A7</SHA1>
+      <FileSize>319836</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6145580+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\first floor\面板長.SLDPRT</FileName>
+      <SHA1>2366777528FD493895EFD4E2E59A05E53495FE39</SHA1>
+      <FileSize>106667</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4437770+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\2.SLDASM</FileName>
+      <SHA1>67C0AF30778192C5874CA7AEDB942A436197CB7A</SHA1>
+      <FileSize>1231536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:38:04.9317459+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\Anderson SB50.SLDPRT</FileName>
+      <SHA1>46568E8B3BE20B9DA04693889A0C425D6B671EBA</SHA1>
+      <FileSize>221412</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6198147+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\Anderson 面板.SLDPRT</FileName>
+      <SHA1>EF05D5ED37250E89DA312DDBF92AA04437B567E2</SHA1>
+      <FileSize>56957</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4524287+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\Anderson墊片.SLDPRT</FileName>
+      <SHA1>5B063F343D23229160341AFE8822312A423C3566</SHA1>
+      <FileSize>54535</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4537736+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\charge.SLDPRT</FileName>
+      <SHA1>BA76D8DD7D98B90CBB7C5D5A116A1D1B37D96C26</SHA1>
+      <FileSize>1120779</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6228978+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\L鐵 切邊.SLDPRT</FileName>
+      <SHA1>A533CB66AB71A50427E51FE3EA722AE563D9AE78</SHA1>
+      <FileSize>99610</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4547795+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\L鐵 切邊2.SLDPRT</FileName>
+      <SHA1>B641A9C0C467108BFDA0AB621F41A3B4C3A1614B</SHA1>
+      <FileSize>96666</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4557842+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\L鐵.SLDPRT</FileName>
+      <SHA1>3EE3C5F8B68FC4EB6A6D77C63EB2198637C87459</SHA1>
+      <FileSize>87083</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4567808+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\握把.SLDPRT</FileName>
+      <SHA1>5D8DB699C392A095469A6C88748DB0B0FAA3837E</SHA1>
+      <FileSize>148955</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6239087+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\整機.SLDASM</FileName>
+      <SHA1>4C72B97426A76FA06F6AD03D07AD7E99A277794C</SHA1>
+      <FileSize>783754</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6259044+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板300.8x195.25.SLDPRT</FileName>
+      <SHA1>8B75B9D465C072142827B839D353137D0EA25607</SHA1>
+      <FileSize>210732</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4588280+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板305.55x400.8.SLDPRT</FileName>
+      <SHA1>6A163F60532FF81FC8E98D4F208410638CA52ACE</SHA1>
+      <FileSize>188943</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4611176+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板500.8x300.8(切角) - 面板.SLDPRT</FileName>
+      <SHA1>7019BEAE23F29498068AAF770FEFF9B7B58236B1</SHA1>
+      <FileSize>155097</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6311958+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板500.8x300.8(切角)-charge.SLDPRT</FileName>
+      <SHA1>3667F741A9CAAD9393EB56DCE427A29B89EA816D</SHA1>
+      <FileSize>228392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4631684+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板500.8x300.8(切角).SLDPRT</FileName>
+      <SHA1>DB213D1F38804D7F4C17B644F7EF6BE7617A25BA</SHA1>
+      <FileSize>156561</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6331943+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板500.8x300.8(切角)挖孔.SLDPRT</FileName>
+      <SHA1>9407AEB647D7E68303A7F8886129C10D0DF40EE5</SHA1>
+      <FileSize>252724</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4653676+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板500.8x300.8(切角)挖洞+孔.SLDPRT</FileName>
+      <SHA1>ACE078572B7EE58609F15F3AC19B29F789176844</SHA1>
+      <FileSize>276225</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4663095+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板500.8x300.8.SLDPRT</FileName>
+      <SHA1>585888B5F108B96050F644AEF0D9393F053E0262</SHA1>
+      <FileSize>139187</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6376491+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\木板500.8x400.8.SLDPRT</FileName>
+      <SHA1>3DDD159D720F6A8292F1386E01BD52419CE13A7F</SHA1>
+      <FileSize>218715</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4683094+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\鋁扁管250.SLDPRT</FileName>
+      <SHA1>A10967D1C26F18698AD0698E22D0539CBA6B906B</SHA1>
+      <FileSize>53995</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4707221+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\鋁擠450.sldprt</FileName>
+      <SHA1>8E31A7E3F0786A2AD0941823842F580CAF9418F3</SHA1>
+      <FileSize>92226</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6417357+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\鋁方管250.SLDPRT</FileName>
+      <SHA1>25D10D4C5D3EBF58983F156311854AA229AF6D9C</SHA1>
+      <FileSize>110449</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4717375+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\鋁方管400.8.SLDPRT</FileName>
+      <SHA1>E1C064397EBE92888F7A87702F3B9E4E0BEAAF90</SHA1>
+      <FileSize>128014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4737285+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\鋁方管450.SLDPRT</FileName>
+      <SHA1>58C28385BF44097F54297E5DE85B7AA4FD13B362</SHA1>
+      <FileSize>98393</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4747286+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\開關.SLDPRT</FileName>
+      <SHA1>D28FB32088D9954230AAC880FDECA26F61EDE248</SHA1>
+      <FileSize>325931</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6458312+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\電壓器.SLDPRT</FileName>
+      <SHA1>2634DEF006DD257E731046C53EA3096311E8E0A6</SHA1>
+      <FileSize>85819</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6468268+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\電池.SLDPRT</FileName>
+      <SHA1>F9A3BE03F35718188FA93B155B48ECEC0BCF28A7</SHA1>
+      <FileSize>319836</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6479055+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\second floor\面板長.SLDPRT</FileName>
+      <SHA1>2366777528FD493895EFD4E2E59A05E53495FE39</SHA1>
+      <FileSize>106667</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4767325+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\3.SLDASM</FileName>
+      <SHA1>F07183248382D07CAD07B34E7F8D257018EA127D</SHA1>
+      <FileSize>1289014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:38:04.9357534+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\Anderson SB50.SLDPRT</FileName>
+      <SHA1>46568E8B3BE20B9DA04693889A0C425D6B671EBA</SHA1>
+      <FileSize>221412</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6523393+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\Anderson 面板.SLDPRT</FileName>
+      <SHA1>EF05D5ED37250E89DA312DDBF92AA04437B567E2</SHA1>
+      <FileSize>56957</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T08:07:06.7415863+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\Anderson墊片.SLDPRT</FileName>
+      <SHA1>5B063F343D23229160341AFE8822312A423C3566</SHA1>
+      <FileSize>54535</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T08:07:06.7425675+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\charge.SLDPRT</FileName>
+      <SHA1>BA76D8DD7D98B90CBB7C5D5A116A1D1B37D96C26</SHA1>
+      <FileSize>1120779</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6583441+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\L鐵 切邊.SLDPRT</FileName>
+      <SHA1>A533CB66AB71A50427E51FE3EA722AE563D9AE78</SHA1>
+      <FileSize>99610</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6540309+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\L鐵 切邊2.SLDPRT</FileName>
+      <SHA1>B641A9C0C467108BFDA0AB621F41A3B4C3A1614B</SHA1>
+      <FileSize>96666</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6550308+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\L鐵.SLDPRT</FileName>
+      <SHA1>3EE3C5F8B68FC4EB6A6D77C63EB2198637C87459</SHA1>
+      <FileSize>87083</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6560343+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\握把.SLDPRT</FileName>
+      <SHA1>44F27742C94149A9246AA5276998B4D129064B90</SHA1>
+      <FileSize>148512</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4839395+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板300.8x195.25.SLDPRT</FileName>
+      <SHA1>8B75B9D465C072142827B839D353137D0EA25607</SHA1>
+      <FileSize>210732</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T08:07:06.7445682+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板305.55x405.55.SLDPRT</FileName>
+      <SHA1>B77AE34C48D49C0C266F67BF1FEFF537D7314F9F</SHA1>
+      <FileSize>155647</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T08:07:06.7465662+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板500.8x300.8(切角) - 面板.SLDPRT</FileName>
+      <SHA1>7019BEAE23F29498068AAF770FEFF9B7B58236B1</SHA1>
+      <FileSize>155097</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6626963+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板500.8x300.8(切角)-charge.SLDPRT</FileName>
+      <SHA1>E64B7FDD89B030E15F5486C641909AA2C1269D42</SHA1>
+      <FileSize>229301</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4863680+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板500.8x300.8(切角).SLDPRT</FileName>
+      <SHA1>DB213D1F38804D7F4C17B644F7EF6BE7617A25BA</SHA1>
+      <FileSize>156561</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6650468+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板500.8x300.8(切角)挖孔.SLDPRT</FileName>
+      <SHA1>9407AEB647D7E68303A7F8886129C10D0DF40EE5</SHA1>
+      <FileSize>252724</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4883678+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板500.8x300.8(切角)挖洞+孔.SLDPRT</FileName>
+      <SHA1>4A5DFAF147CCD272B245EA6CB1F03DC6EE03D99C</SHA1>
+      <FileSize>331714</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-18T06:33:00.4968765+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板500.8x300.8(切角+邊)挖孔.SLDPRT</FileName>
+      <SHA1>5DBC09D272E1861BF4B182ED20B560BD121F4BE0</SHA1>
+      <FileSize>268591</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4883678+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板500.8x300.8.SLDPRT</FileName>
+      <SHA1>34F4DA38C1609051BFCBDFC97DBE6DD931E5509F</SHA1>
+      <FileSize>170782</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T08:07:06.7495975+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\木板500.8x405.55.SLDPRT</FileName>
+      <SHA1>933C50F9D95407CC49A47A907A07F0532ADAE62D</SHA1>
+      <FileSize>177807</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4897122+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\鋁扁管250.SLDPRT</FileName>
+      <SHA1>2C4A0C5149151A78E17AD505810962666DCB72F3</SHA1>
+      <FileSize>61020</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4917877+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\鋁擠450.sldprt</FileName>
+      <SHA1>8E31A7E3F0786A2AD0941823842F580CAF9418F3</SHA1>
+      <FileSize>92226</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6724427+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\鋁方管250.SLDPRT</FileName>
+      <SHA1>25D10D4C5D3EBF58983F156311854AA229AF6D9C</SHA1>
+      <FileSize>110449</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T02:38:51.4928876+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\鋁方管400.8.SLDPRT</FileName>
+      <SHA1>E1C064397EBE92888F7A87702F3B9E4E0BEAAF90</SHA1>
+      <FileSize>128014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T08:07:06.7535734+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\鋁方管450.SLDPRT</FileName>
+      <SHA1>58C28385BF44097F54297E5DE85B7AA4FD13B362</SHA1>
+      <FileSize>98393</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T08:07:06.7556131+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\開關.SLDPRT</FileName>
+      <SHA1>D28FB32088D9954230AAC880FDECA26F61EDE248</SHA1>
+      <FileSize>325931</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6770975+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\電壓器.SLDPRT</FileName>
+      <SHA1>2634DEF006DD257E731046C53EA3096311E8E0A6</SHA1>
+      <FileSize>85819</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6780899+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\電池.SLDPRT</FileName>
+      <SHA1>F9A3BE03F35718188FA93B155B48ECEC0BCF28A7</SHA1>
+      <FileSize>319836</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6791116+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\third floor\面板長.SLDPRT</FileName>
+      <SHA1>2366777528FD493895EFD4E2E59A05E53495FE39</SHA1>
+      <FileSize>106667</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T08:07:06.7565697+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\6.SLDPRT</FileName>
+      <SHA1>E49FB08E1F20635E5A6FA145488831F195537C44</SHA1>
+      <FileSize>142620</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:37:59.6605020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\63.SLDPRT</FileName>
+      <SHA1>3A13E01F2BA4387639C334726FAFF4F84BCC7585</SHA1>
+      <FileSize>180460</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:37:59.6615017+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\7.SLDPRT</FileName>
+      <SHA1>293A481DA7D2D763CAF4C2998D7A7BE7AE36B052</SHA1>
+      <FileSize>213909</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:37:59.6637136+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\L鐵 切邊.SLDPRT</FileName>
+      <SHA1>D5C34A9383A997706D814DAAA1421E649AB4A27A</SHA1>
+      <FileSize>98295</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.5748077+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\L鐵.SLDPRT</FileName>
+      <SHA1>66EC7FA310E2F853CA28E90BB153026702727A48</SHA1>
+      <FileSize>96481</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.5768079+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>new\整機.SLDASM</FileName>
+      <SHA1>1312134F192B8F60465518231DB3C0B573779735</SHA1>
+      <FileSize>1319206</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-17T03:38:04.9400618+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Anderson SB50.SLDPRT</FileName>
+      <SHA1>46568E8B3BE20B9DA04693889A0C425D6B671EBA</SHA1>
+      <FileSize>221412</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6856878+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Anderson 面板.SLDPRT</FileName>
+      <SHA1>E1703C42EA0D8A35EBF7CD6C93B0544E50EFE816</SHA1>
+      <FileSize>48867</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6880006+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Bolt.SLDPRT</FileName>
+      <SHA1>4C94BBF1C1E7717B8FE8BB35E07E3D382D38CC71</SHA1>
+      <FileSize>401654</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6890718+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Caster wheel assembly design.SLDASM</FileName>
+      <SHA1>F86CFE8AA3D28406B9FF4023037747C7126D314E</SHA1>
+      <FileSize>789753</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6905558+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\charge.SLDPRT</FileName>
+      <SHA1>C9405BD0BF1B190B72D4F5D3ACA1C598C1D39EB2</SHA1>
+      <FileSize>1121690</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6986851+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\circelips.SLDPRT</FileName>
+      <SHA1>B7A534CB93B3DED2BBA87C20ABA4ED89FF0F797A</SHA1>
+      <FileSize>96514</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6996820+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Frame.SLDPRT</FileName>
+      <SHA1>464D762ECA88098B26760CE625032D81BBEB39E2</SHA1>
+      <FileSize>133411</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6916753+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Lagerbus.SLDPRT</FileName>
+      <SHA1>C0F54BA7FC6A7BB272E093E90BAF5201A4E9737D</SHA1>
+      <FileSize>137881</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6930880+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Montageplaat.SLDPRT</FileName>
+      <SHA1>090FC2992E02A7D29934835CB72F49485904DF80</SHA1>
+      <FileSize>117840</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6946726+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Nut.SLDPRT</FileName>
+      <SHA1>7F7C72EAD470731FAE11A9A312AB03C437E3D7A3</SHA1>
+      <FileSize>414819</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6956836+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\Tee Slot Pull Handle.SLDPRT</FileName>
+      <SHA1>C44D6EA174CE205979994BA9C2F958BF53994959</SHA1>
+      <FileSize>1025044</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.6977729+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\washer.SLDPRT</FileName>
+      <SHA1>FB0620355799995A86787E13AE5438615860868C</SHA1>
+      <FileSize>70418</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7006787+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\延長線.SLDASM</FileName>
+      <SHA1>C24BEC7E92341384E0A2CE17AB037455D91D6A17</SHA1>
+      <FileSize>2006686</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7034345+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\整機.SLDASM</FileName>
+      <SHA1>06349EBE071ABFCB889ABB8D370E2FCF66844421</SHA1>
+      <FileSize>2317191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7054795+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\木板300.8x1409.5 7636.SLDPRT</FileName>
+      <SHA1>766A23B286CD97A399E8CA861196D7B43F68DFFE</SHA1>
+      <FileSize>189416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7067646+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\木板300.8x1409.5.SLDPRT</FileName>
+      <SHA1>85AEF19DC1AFCDBD704FAFAAB409D153EC6625B0</SHA1>
+      <FileSize>74579</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7077772+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\木板300.8x195.25.SLDPRT</FileName>
+      <SHA1>19D703D23DAB42CD65F90474CD502C82E66A3150</SHA1>
+      <FileSize>194063</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7087759+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\木板450x250 - Copy.SLDPRT</FileName>
+      <SHA1>486E799C4AD69C669479AD7BE34A2BA65BDAE68B</SHA1>
+      <FileSize>173824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7097747+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\木板450x250.SLDPRT</FileName>
+      <SHA1>486E799C4AD69C669479AD7BE34A2BA65BDAE68B</SHA1>
+      <FileSize>173824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7107749+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\木板500.8x1409.5.SLDPRT</FileName>
+      <SHA1>4FC2FACA351343D697EC850671D3311A2AAED99B</SHA1>
+      <FileSize>92007</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7117742+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\木板500.8x300.8(切角).SLDPRT</FileName>
+      <SHA1>262C3EF31F9CA42472C3D3FC58BC4817EC982ACB</SHA1>
+      <FileSize>193209</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7127741+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\木板500.8x300.8.SLDPRT</FileName>
+      <SHA1>9F05DCFFC0A34A69B779FD5AE883842488556137</SHA1>
+      <FileSize>139518</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7147712+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\花軸500.8.SLDPRT</FileName>
+      <SHA1>7FF40986BAE9C4B132BACE77D343F411AE835D25</SHA1>
+      <FileSize>44899</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7147712+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\輪子.SLDPRT</FileName>
+      <SHA1>1A64EB11A35D5A665F9D61EE514FF73F258B4E37</SHA1>
+      <FileSize>374741</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7168175+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\鋁扁管.SLDPRT</FileName>
+      <SHA1>A41051F7ACC1A75351317C207DB71A189748E7A5</SHA1>
+      <FileSize>45775</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7177717+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\鋁方管.SLDPRT</FileName>
+      <SHA1>2637FF10387330CBCB6AE9DD43BC0896B2249C76</SHA1>
+      <FileSize>59092</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7187715+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\鋁方管1250.SLDPRT</FileName>
+      <SHA1>FEE73B857CB96BE49597EEB95B173D4F70351D17</SHA1>
+      <FileSize>49143</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7197712+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\鋁方管250(鑽孔).SLDPRT</FileName>
+      <SHA1>B48CB3E06958281533798448BE954220FEFC352C</SHA1>
+      <FileSize>66213</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7207703+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\鋁方管250.SLDPRT</FileName>
+      <SHA1>ABB05F7E30C8B2A296BF7D5FDBA33DAAB8D42A22</SHA1>
+      <FileSize>63381</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7217710+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\鋁方管450.SLDPRT</FileName>
+      <SHA1>D1F72B01EF38B2C334EF57FFC1EFD3D232C638BC</SHA1>
+      <FileSize>59371</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7227715+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\開關.SLDPRT</FileName>
+      <SHA1>D28FB32088D9954230AAC880FDECA26F61EDE248</SHA1>
+      <FileSize>325931</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7237769+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\電壓器.SLDPRT</FileName>
+      <SHA1>38DB37D9473DE85EA14B65531C81ABD85E954DCE</SHA1>
+      <FileSize>87315</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7247734+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\電池.SLDPRT</FileName>
+      <SHA1>F9A3BE03F35718188FA93B155B48ECEC0BCF28A7</SHA1>
+      <FileSize>319836</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7257755+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\電池箱.PNG</FileName>
+      <SHA1>521B1EC6B747E1FF9DEBCC4FB98C0B42B94FC579</SHA1>
+      <FileSize>250334</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7271093+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\面板.SLDASM</FileName>
+      <SHA1>9D321BF91813549769D4573760C7263BC22F709A</SHA1>
+      <FileSize>146963</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7281255+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>old\面板.SLDPRT</FileName>
+      <SHA1>881A192B25D3688C61B0B7A4127C16BEB05A591D</SHA1>
+      <FileSize>81707</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T00:55:45.7291202+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
